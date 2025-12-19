@@ -228,7 +228,7 @@ The code includes commented examples of alternative loss functions you can exper
 - **Weighted BCE Loss**: For handling class imbalance
 - **Focal Loss**: For focusing on hard-to-classify examples
 
-To switch loss functions, uncomment the desired loss function block in `main.py` (lines 106-123).
+To switch loss functions, uncomment the desired loss function block in `main.py` (lines 102-123).
 
 ## 🖥️ Device Support
 
