@@ -13,6 +13,15 @@ This repository is designed as a learning project to understand how to:
 
 The project implements a custom CNN model trained to classify breast ultrasound images, achieving binary classification between benign and malignant tumors.
 
+## Metrics Across models
+<table align="center">
+  <tr>
+    <td>
+      <img width="553" height="254" alt="Screenshot 2025-12-19 at 1 17 17 PM" src="https://github.com/user-attachments/assets/03aae67a-0d29-400b-a579-1ea80b9f22ca" />
+    </td>
+  </tr>
+</table>
+
 ## 🏗️ Architecture
 
 The CNN model consists of:
